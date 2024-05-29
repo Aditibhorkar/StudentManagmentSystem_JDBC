@@ -1,1 +1,1 @@
-# StudentManagmentSystem_JDBC
+The Student Management System is a Java project that uses JDBC to manage student records in a MySQL database, supporting basic CRUD operations: creating, reading, updating, and deleting records. It connects to a student database, creates a Students table, and allows for inserting new student records, querying and displaying existing records, updating student information, and deleting records. To set up, you need the JDK, MySQL Server, and the MySQL JDBC Driver.
